@@ -1,0 +1,15 @@
+{
+  "name": "get-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sulieman Khaddour",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "nodemon": "^2.0.21"
+  }
+}
